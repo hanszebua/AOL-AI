@@ -1,0 +1,11 @@
+CustomerID,CustomerName,CustomerGender,CustomerDOB,CustomerAddress,CustomerPhoneNum,CustomerEmail
+C001,Ludovico,Male,01/01/2001,Jl. Manggis No. 1,081234567890,Ludovico@gmail.com
+C002,Boniface,Male,02/01/2001,Jl. Manggis No. 2,081234567891,Boniface@gmail.com
+C003,Joanne,Female,03/01/2001,Jl. Manggis No. 3,081234567892,Joanne@gmail.com
+C004,Machiavelli,Male,04/01/2001,Jl. Manggis No. 4,081234567893,Machiavelli@gmail.com
+C005,Eleonora,Female,05/01/2001,Jl. Manggis No. 5,081234567894,Eleonora@gmail.com
+C006,Voltaire,Male,06/01/2001,Jl. Manggis No. 6,081234567895,Voltaire@gmail.com
+C007,Beatrice,Female,07/01/2001,Jl. Manggis No. 7,081234567896,Beatrice@gmail.com
+C008,tutankhamun,Male,08/01/2001,Jl. Manggis No. 8,081234567897,tutankhamun@gmail.com
+C009,Mirebelle,Female,09/01/2001,Jl. Manggis No. 9,081234567898,Mirebelle@gmail.com
+C010,Sumanto,Male,10/01/2001,Jl. Gang Haji Yoyot No. 4,081234567899,SumantoImoet@hotmail.com
